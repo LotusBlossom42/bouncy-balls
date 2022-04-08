@@ -14,7 +14,13 @@ different types of balls and allow the user to select the type, color, size, etc
 ### License Info
 Please see the LICENSE file in this repo regarding the MIT License.
 
-<img src= "red.png" />&nbsp;&nbsp;&nbsp;<img src= "blue.png" />
+ <iframe src="https://giphy.com/embed/l3vRonw07hQfTefh6" 
+                width="60" 
+                height="60" 
+                frameBorder="0" 
+                class="giphy-embed" 
+                alt="bouncing colorful 8-bit balls gif" 
+                allowFullScreen>
+ </iframe>
 
-#### real-time-bus-tracker
 # bouncy-balls
